@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Catálogo de Livros</title>
+</head>
+
+<body>
+
+    <nav>
+        <h2>Livraria Clássicos</h2>
+    </nav>
+
+    <header>
+        <h1>Catálogo de Livros</h1>
+    </header>
+
+    <main>
+        <section class="container">
+            <section class="catalogo">
+                <div class="livro">
+                    <img src=https://covers.openlibrary.org/b/id/10558903-M.jpg alt="Dom Casmurro">
+                    <div class="livro-info">
+                        <div>
+                            <h2>Dom Casmurro</h2>
+                            <p class="livro-autor">Machado de Assis</p>
+                            <p class="livro-preco">R$ 35,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+                <div class="livro">
+                    <img src=https://covers.openlibrary.org/b/id/10792439-M.jpg alt="O Cortiço">
+                    <div class="livro-info">
+                        <div>
+                            <h2>O Cortiço</h2>
+                            <p class="livro-autor">Aluísio Azevedo</p>
+                            <p class="livro-preco">R$ 38,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+                <div class="livro">
+                    <img src=https://covers.openlibrary.org/b/id/14822565-M.jpg alt="Memórias Póstumas de Brás Cubas">
+                    <div class="livro-info">
+                        <div>
+                            <h2>Memórias Póstumas de Brás Cubas</h2>
+                            <p class="livro-autor">Machado de Assis</p>
+                            <p class="livro-preco">R$ 42,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+                <div class="livro">
+                    <img src=https://covers.openlibrary.org/b/id/13946180-M.jpg alt="Grande Sertão: Veredas">
+                    <div class="livro-info">
+                        <div>
+                            <h2>Grande Sertão: Veredas</h2>
+                            <p class="livro-autor">Eduardo F. Coutinho</p>
+                            <p class="livro-preco">R$ 50,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+                <div class="livro">
+                    <img src="https://covers.openlibrary.org/b/id/14832770-M.jpg" alt="Capitães da Areia">
+                    <div class="livro-info">
+                        <div>
+                            <h2>Capitães da Areia</h2>
+                            <p class="livro-autor">Jorge Amado</p>
+                            <p class="livro-preco">R$ 39,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+                <div class="livro">
+                    <img src="https://covers.openlibrary.org/b/id/7935048-M.jpg" alt="Quincas Borba">
+                    <div class="livro-info">
+                        <div>
+                            <h2>Quincas Borba</h2>
+                            <p class="livro-autor">Machado de Assis</p>
+                            <p class="livro-preco">R$ 36,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+                <div class="livro">
+                    <img src=https://covers.openlibrary.org/b/id/14563910-L.jpg alt="It">
+                    <div class="livro-info">
+                        <div>
+                            <h2>It a coisa</h2>
+                            <p class="livro-autor">Stephen King</p>
+                            <p class="livro-preco">R$ 80,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+                <div class="livro">
+                    <img src="https://covers.openlibrary.org/b/id/15140681-M.jpg" alt="It">
+                    <div class="livro-info">
+                        <div>
+                            <h2>It</h2>
+                            <p class="livro-autor">Stephen King</p>
+                            <p class="livro-preco">R$ 76,00</p>
+                        </div>
+                        <a href="finalizar_compras.html" class="btn">Comprar</a>
+                    </div>
+                </div>
+
+            </section>
+        </section>
+    </main>
+
+    <footer div class="footer">
+        <p> Livraria Clássicos Brasileiros</p>
+    </footer>
+
+</body>
+</html>
